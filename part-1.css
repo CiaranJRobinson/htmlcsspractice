@@ -1,0 +1,12 @@
+h1 {
+    color: palegreen;
+    background-color: :darkblue;
+}
+
+div{
+    width:50%;
+}
+
+div > * {
+    margin-bottom: 30px;
+}
